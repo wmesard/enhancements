@@ -38,7 +38,7 @@ that has feature parity to the kube-controller-manager.  This KEP captures mostl
 
 ## Motivation
 
-Motivation for supporting out-of-tree providers can be found in the [Cloud Controller Manager KEP](/keps/sig-cloud-provider/20180530-cloud-controller-manager.md). 
+Motivation for supporting out-of-tree providers can be found in the [Cloud Controller Manager KEP](/keps/sig-cloud-provider/2392-cloud-controller-manager/README.md).
 This KEP is specifically tracking progress for the vSphere cloud provider.
 
 ### Goals

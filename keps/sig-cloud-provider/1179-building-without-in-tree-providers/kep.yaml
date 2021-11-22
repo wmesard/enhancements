@@ -22,6 +22,6 @@ last-updated: 2020-05-08
 status: implemented
 see-also:
   - "/keps/sig-cloud-provider/20190125-removing-in-tree-providers.md"
-  - "/keps/sig-cloud-provider/20180530-cloud-controller-manager.md"
+  - "/keps/sig-cloud-provider/2392-cloud-controller-manager/README.md"
 latest-milestone: '0.0'
 stage: stable
